@@ -18,7 +18,7 @@ const icons: LucideIcon[] = [BookOpen, Shield, Compass, Boxes, Flame, Code2, Swo
 
 
 export default function HomePageClient({ home, locale, articles, recentArticles }: { home: Home; locale: string; articles: ContentItem[]; recentArticles: ContentItem[] }) {
-  const YOUTUBE_VIDEO_ID = siteConfig.heroVideoId || "";
+  const YOUTUBE_VIDEO_ID = siteConfig.heroVideoId || "2JBDFU8lsKI";
 
   return (
     <div className="min-w-0 space-y-16">
@@ -32,7 +32,7 @@ export default function HomePageClient({ home, locale, articles, recentArticles 
           <span className="mt-2 inline-flex items-center rounded-md border border-[hsl(var(--nav-theme))] bg-[hsl(var(--nav-theme))] px-2.5 py-0.5 text-xs font-semibold text-primary-foreground sm:-translate-y-1.5">{home.hero.eyebrow}</span>
         </div>
         {YOUTUBE_VIDEO_ID && (
-          <div className="mx-auto mt-5 max-w-2xl">
+          <div className="mx-auto mt-5 max-w-3xl">
             <TrailerButton videoId={YOUTUBE_VIDEO_ID} />
           </div>
         )}
@@ -242,7 +242,7 @@ export default function HomePageClient({ home, locale, articles, recentArticles 
       <section><h2 className="text-3xl font-bold tracking-tight text-foreground">{home.faq.title}</h2><p className="mt-2 text-muted-foreground">{home.faq.description}</p><Accordion type="single" collapsible className="mt-6 rounded-2xl border border-border bg-card/70 px-5">{home.faq.items.map((item, index) => <AccordionItem key={item.question} value={`item-${index}`}><AccordionTrigger className="text-left text-foreground">{item.question}</AccordionTrigger><AccordionContent className="leading-7 text-muted-foreground">{item.answer}</AccordionContent></AccordionItem>)}</Accordion></section>
 
       {/* Final CTA (curated, stays in JSON) */}
-      <section className="rounded-3xl border border-border bg-gradient-to-br from-muted to-card p-8 text-center"><h2 className="text-3xl font-bold tracking-tight text-foreground">{home.finalCta.title}</h2><p className="mx-auto mt-3 max-w-2xl text-muted-foreground">{home.finalCta.description}</p><div className="mt-6 flex flex-wrap justify-center gap-3"><Button asChild size="lg"><Link href={localizeHref("/guide/vv-ultimatum-beginner-guide-2026", locale)}>{home.finalCta.primary}<ArrowRight className="ml-2 h-4 w-4" /></Link></Button><Button asChild size="lg" variant="outline"><Link href="https://www.roblox.com/games/6270290407/VV-ULTIMATUM">{home.finalCta.secondary}</Link></Button></div></section>
+      <section className="rounded-3xl border border-border bg-gradient-to-br from-muted to-card p-8 text-center"><h2 className="text-3xl font-bold tracking-tight text-foreground">{home.finalCta.title}</h2><p className="mx-auto mt-3 max-w-3xl text-muted-foreground">{home.finalCta.description}</p><div className="mt-6 flex flex-wrap justify-center gap-3"><Button asChild size="lg"><Link href={localizeHref("/guide/vv-ultimatum-beginner-guide-2026", locale)}>{home.finalCta.primary}<ArrowRight className="ml-2 h-4 w-4" /></Link></Button><Button asChild size="lg" variant="outline"><Link href="https://www.roblox.com/games/6270290407/VV-ULTIMATUM">{home.finalCta.secondary}</Link></Button></div></section>
 
       {/* Bottom leaderboard (course §3.5) */}
       <AdBanner size="728x90" />
