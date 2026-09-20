@@ -8,7 +8,21 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://projectslayer.top";
 
   // Static paths that always exist
-  const staticPaths = ["/", "/races", "/bosses", "/codes", "/guide", "/tier-list", "/maps", "/skills", "/privacy-policy", "/terms-of-service", "/copyright", "/about"];
+  const staticPaths = [
+    "/",
+    "/codes",
+    "/guide",
+    "/progression",
+    "/mechanics",
+    "/items",
+    "/characters",
+    "/maps",
+    "/controls",
+    "/privacy-policy",
+    "/terms-of-service",
+    "/copyright",
+    "/about",
+  ];
 
   // Dynamic paths: scan actual MDX content files
   const contentPaths = await getAllContentPaths("en");
@@ -21,7 +35,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       url: `${siteUrl}/${locale}${path === "/" ? "" : path}`,
       lastModified: new Date(),
       changeFrequency: path === "/" ? ("daily" as const) : ("weekly" as const),
-      priority: path === "/" ? 1 : path === "/bosses" ? 0.8 : 0.6,
+      priority: path === "/" ? 1 : staticPaths.includes(path) ? 0.8 : 0.6,
     })),
   );
 }

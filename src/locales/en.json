@@ -6,7 +6,16 @@
     "description": "Project Slayers Wiki provides Roblox guides, codes, clans, breathing styles, weapons, bosses, maps and updates to help players master this anime RPG adventure.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
-  "nav": {},
+  "nav": {
+    "codes": "Codes",
+    "guide": "Guide",
+    "progression": "Progression",
+    "mechanics": "Mechanics",
+    "items": "Items",
+    "characters": "Characters",
+    "maps": "Maps",
+    "controls": "Controls"
+  },
   "home": {
     "meta": {
       "title": "Project Slayers Wiki — Codes, Breathing Styles, Clans & Guides",
@@ -382,7 +391,38 @@
       "secondary": "Play on Roblox"
     }
   },
-  "bosses": {},
+  "codes": {
+    "overviewTitle": "Project Slayers Codes",
+    "overviewDescription": "Browse active Project Slayers codes for free spins, resets, and in-game rewards."
+  },
+  "guide": {
+    "overviewTitle": "Project Slayers Guides",
+    "overviewDescription": "Essential walkthroughs covering beginner basics, Final Selection, demon progression, and gourd training."
+  },
+  "progression": {
+    "overviewTitle": "Project Slayers Progression",
+    "overviewDescription": "Comprehensive level progression paths, quest sequences, level cap details, and milestone guides."
+  },
+  "mechanics": {
+    "overviewTitle": "Project Slayers Mechanics",
+    "overviewDescription": "In-depth breakdown of breathing styles, Blood Demon Arts, combat combos, and mastery systems."
+  },
+  "items": {
+    "overviewTitle": "Project Slayers Items",
+    "overviewDescription": "Complete item catalog covering weapons, katanas, accessories, trade values, and drop sources."
+  },
+  "characters": {
+    "overviewTitle": "Project Slayers Characters & Clans",
+    "overviewDescription": "Explore clan perks, tier rankings, trainer locations, and key characters across the world."
+  },
+  "maps": {
+    "overviewTitle": "Project Slayers Maps & Locations",
+    "overviewDescription": "Interactive map guides detailing villages, trainer coordinates, boss spawn areas, and landmarks."
+  },
+  "controls": {
+    "overviewTitle": "Project Slayers Controls & Keybinds",
+    "overviewDescription": "Keyboard keybinds, Xbox controller layouts, and combat input guides for Project Slayers."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
