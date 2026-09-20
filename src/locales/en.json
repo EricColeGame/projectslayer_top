@@ -9,8 +9,8 @@
   "nav": {},
   "home": {
     "meta": {
-      "title": "Project Slayers Wiki — Codes, Recipes, Upgrades & Guides",
-      "description": "Complete Project Slayers guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
+      "title": "Project Slayers Wiki — Codes, Breathing Styles, Clans & Guides",
+      "description": "Complete Project Slayers guide on Roblox with active working codes, breathing styles, clan tier list, map locations, and progression tips."
     },
     "hero": {
       "eyebrow": "Anime Demon Slayer Inspired Roblox RPG",
@@ -39,22 +39,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Master the basics of combat, quest routes, and character setup from day one with our starter roadmap."
         },
         {
           "number": "2",
           "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "description": "Discover the most efficient leveling routes, quest rotations, and mob farming spots to reach max level."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Which Clan to Pick",
+          "description": "Compare clan rarities, Supreme clan passives, and determine the ideal family perks for your combat build."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Project Slayers."
+          "title": "All Codes & Rewards",
+          "description": "Redeem the latest working Project Slayers codes for free spins, clan rerolls, and valuable in-game Wen."
         }
       ]
     },
@@ -62,78 +62,72 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Breathing Styles",
+        "Beginner Guide",
+        "Clans Guide",
+        "All Codes"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
           "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "href": "/guide/project-slayers-beginner-guide"
         },
         {
-          "badge": "Updated",
+          "badge": "Codes",
           "title": "Active Codes",
           "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "href": "/codes/project-slayers-codes"
         },
         {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "badge": "Combat",
+          "title": "Breathing Styles",
+          "description": "Complete guide to unlocking, comparing, and mastering every breathing style.",
+          "href": "/mechanics/project-slayers-breathing-styles"
         },
         {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "badge": "Clans",
+          "title": "Clans Guide",
+          "description": "Clan rarities, passives, and best family perks for your build.",
+          "href": "/characters/project-slayers-clans"
         },
         {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "badge": "Tier List",
+          "title": "Breathing Tier List",
+          "description": "All breathing styles ranked from S down to C for grinding, bossing, and PvP.",
+          "href": "/mechanics/project-slayers-breathing-style-tier-list"
         },
         {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
+          "badge": "Maps",
+          "title": "Map & Locations",
+          "description": "Complete map breakdown covering starter villages, trainers, and boss locations.",
+          "href": "/maps/project-slayers-map"
         },
         {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "badge": "Progression",
+          "title": "Progression Guide",
+          "description": "Optimal leveling, quest paths, and endgame milestones.",
+          "href": "/progression/project-slayers-progression"
         },
         {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "Weapons",
+          "title": "Weapons & Katanas",
+          "description": "Weapon stats, katanas, and combat gear catalog.",
+          "href": "/items/project-slayers-weapons"
         }
       ]
     },
     "aboutGame": {
       "title": "What is Project Slayers?",
       "paragraphs": [
-        "Project Slayers is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Project Slayers is a Demon Slayer-inspired action RPG on Roblox created by Ouw Productions. Players step into a sprawling open world where they choose their path as a Human, Demon, or Slayer, mastering distinct combat stances like Breathing Styles and Blood Demon Arts while completing quests, challenging powerful bosses, and uncovering secrets.",
+        "Whether you are learning your first Water or Thunder form, rolling for a Supreme Clan like Kamado or Agatsuma, or farming endgame boss drops with your allies, our wiki provides complete guides, stat breakdowns, and step-by-step walkthroughs."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "Ouw Productions"
         },
         {
           "label": "Platform",
@@ -141,158 +135,215 @@
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Action RPG"
         },
         {
           "label": "Visits",
-          "value": "12.6M+"
+          "value": "2B+"
         },
         {
           "label": "Favorites",
-          "value": "243K+"
+          "value": "2M+"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Breathing Styles",
+          "value": "20+"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Combat System",
+          "value": "Combo-based"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore Project Slayers Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Master your journey in Project Slayers on Roblox with essential progression guides, active codes, breathing styles, clan rankings, and boss strategies.",
       "modules": [
         {
           "order": 1,
-          "name": "Project Slayers Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
+          "name": "Project Slayers Codes",
+          "description": "This module covers active and expired redeem codes, including rewards such as spins, rerolls, and in-game bonuses. Players frequently search for new Project Slayers codes after updates or events, making this a high-value SEO landing section.",
           "href": "/codes/project-slayers-codes",
-          "displayType": "code-box",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "SPINS",
+              "detail": "Claim free Clan and Demon Art spins to upgrade your character build.",
+              "badge": "Active"
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "REROLL",
+              "detail": "Redeem free breathing style and clan rerolls after major updates.",
+              "badge": "Free"
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "WEN",
+              "detail": "Earn bonus Wen currency to purchase starter swords and essential gear.",
+              "badge": "Currency"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
+          "name": "Project Slayers Beginner Guide",
+          "description": "This module provides a starting roadmap for new players, including character progression, early quests, leveling methods, and important systems. It targets users searching how to start and how to progress efficiently.",
           "href": "/guide/project-slayers-beginner-guide",
-          "displayType": "feature-cards",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "1",
+              "detail": "Complete starter tutorial quests in Kiribating Village to earn early Wen and XP."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "2",
+              "detail": "Equip your first katana and learn basic light and heavy attack combo timing."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "3",
+              "detail": "Train breathing stamina with gourds and find your chosen breathing trainer."
+            },
+            {
+              "label": "4",
+              "detail": "Complete the Final Selection exam to become an official Demon Slayer."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/project-slayers-tier-list",
-          "displayType": "tier-grid",
+          "name": "Project Slayers Breathing Styles Guide",
+          "description": "This module explains available breathing styles, their gameplay roles, unlock requirements, and progression paths. Breathing styles are one of the core search interests for players building stronger characters.",
+          "href": "/mechanics/project-slayers-breathing-styles",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Water",
+              "detail": "Balanced moveset with fluid crowd control and defensive counters."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Thunder",
+              "detail": "High-speed gap closers and lightning-fast burst damage combos."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "Insect",
+              "detail": "Poison debuffs, multi-hit needle strikes, and superior agility."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Wind",
+              "detail": "Aggressive mid-range slashes and heavy knockback zone control."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/project-slayers-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Project Slayers Tier List",
+          "description": "This module ranks important combat options such as breathing styles, clans, and abilities based on player usage and game progression needs. It helps users compare choices before investing spins or resources.",
+          "href": "/mechanics/project-slayers-breathing-style-tier-list",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "S",
+              "detail": "Kamado Clan and Sun / Thunder Breathing with top-tier damage and mobility."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "A",
+              "detail": "Agatsuma Clan and Water / Mist Breathing offering reliable combo chains."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "B",
+              "detail": "Insect and Wind Breathing with situational advantages in PvP and mob clearing."
+            },
+            {
+              "label": "C",
+              "detail": "Starter styles and base common clans that serve as stepping stones."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/project-slayers-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Project Slayers Clans Guide",
+          "description": "This module covers clan mechanics, clan rarity, rerolls, and notable clan advantages. Clan-related searches are common because players want to optimize their character builds.",
+          "href": "/characters/project-slayers-clans",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Kamado",
+              "detail": "Supreme tier clan offering sunlight immunity, stamina boost, and skill discounts."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Agatsuma",
+              "detail": "Supreme tier clan granting God Speed mode and thunder breathing amplification."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Tomioka",
+              "detail": "Mythic tier clan granting Dead Calm defensive skill and water damage buffs."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/project-slayers-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Project Slayers Map and Locations",
+          "description": "This module helps players find important areas, NPCs, trainers, bosses, and progression locations. It targets navigation-based searches from players who need help exploring the open world.",
+          "href": "/maps/project-slayers-map",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Kiribating",
+              "detail": "Starter village featuring introductory quest NPCs and basic vendors."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Ushumaru",
+              "detail": "Town hub connecting early routes and essential weapon blacksmiths."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Butterfly",
+              "detail": "Butterfly Mansion medical center and advanced training grounds."
+            },
+            {
+              "label": "Selection",
+              "detail": "Final Selection mountain testing ground for aspiring Demon Slayers."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Project Slayers Boss Guide",
+          "description": "This module provides information about bosses, drops, recommended strategies, and preparation tips. Boss farming is an important part of upgrading equipment and character strength.",
+          "href": "/items/project-slayers-weapons",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Giyu",
+              "detail": "Spawns south of Butterfly Mansion; drops Tier 2 chests and Water Katana."
+            },
+            {
+              "label": "Akaza",
+              "detail": "High-tier demon boss with devastating martial combos; party farming recommended."
+            },
+            {
+              "label": "Muzan",
+              "detail": "Demon progenitor encountered at night; essential for demon path progression."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Project Slayers Update News",
+          "description": "This module collects official update information, new features, balance changes, and event announcements. It supports recurring searches from players checking the latest Project Slayers changes.",
+          "href": "/progression/project-slayers-progression",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Patch",
+              "detail": "Regular balance adjustments to breathing damage, cooldowns, and stamina costs."
+            },
+            {
+              "label": "Spins",
+              "detail": "New code drops and spin events announced alongside game version updates."
+            },
+            {
+              "label": "Content",
+              "detail": "Ongoing additions of new Blood Demon Arts, weapons, and endgame raid encounters."
             }
           ]
         }
@@ -304,23 +355,23 @@
       "items": [
         {
           "question": "What is Project Slayers?",
-          "answer": "Project Slayers is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "Project Slayers is a popular Roblox anime action RPG inspired by Demon Slayer. Players explore an open world, train Breathing Styles or Blood Demon Arts, unlock powerful Clans, and battle challenging bosses."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "How do I redeem Project Slayers codes?",
+          "answer": "In Project Slayers, open the in-game menu by pressing M, click the Twitter bird / gift icon, paste your working code, and press Submit to claim free spins and Wen."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "Which is better in Project Slayers: Slayer or Demon?",
+          "answer": "Both paths are viable in Project Slayers. Slayers utilize swords and diverse Breathing Styles, while Demons rely on Blood Demon Arts and health regeneration, but take damage from sunlight."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "How do I unlock a Breathing Style in Project Slayers?",
+          "answer": "To learn a Breathing Style in Project Slayers, reach level 12, save 5,000 Wen, purchase and train with gourds, and visit the respective style trainer on the map to complete their training trials."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "What are the best Clans in Project Slayers?",
+          "answer": "The best Clans in Project Slayers are Supreme tier families like Kamado and Agatsuma, which provide unique abilities, passive stat boosts, and stamina efficiency."
         }
       ]
     },
