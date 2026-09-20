@@ -1,1 +1,462 @@
-{}
+{
+  "site": {
+    "name": "Project Slayers Wiki",
+    "shortName": "Project Slayers",
+    "tagline": "Vollständige Guides, Codes, Atemstile und Clans",
+    "description": "Das Project Slayers Wiki bietet Roblox-Guides, Codes, Clans, Atemstile, Waffen, Bosse, Karten und Updates, um dieses Anime-RPG-Abenteuer zu meistern.",
+    "legalNotice": "Inoffizielles Fan-Wiki. Von Spielern für Spieler erstellt."
+  },
+  "nav": {
+    "codes": "Codes",
+    "guide": "Guide",
+    "progression": "Fortschritt",
+    "mechanics": "Mechaniken",
+    "items": "Gegenstände",
+    "characters": "Charaktere",
+    "maps": "Karten",
+    "controls": "Steuerung"
+  },
+  "home": {
+    "meta": {
+      "title": "Project Slayers Wiki — Codes, Atemstile, Clans & Guides",
+      "description": "Vollständiger Project Slayers Guide auf Roblox mit aktiven Codes, Atemstilen, Clan-Ranglisten, Kartenstandorten und Fortschrittstipps."
+    },
+    "hero": {
+      "eyebrow": "Von Demon Slayer inspiriertes Roblox-RPG",
+      "title": "Project Slayers Wiki",
+      "description": "Project Slayers ist ein von Demon Slayer inspiriertes Action-RPG auf Roblox mit Erkundung, Clans, Atemstilen, Dämonenfähigkeiten, Bossen, Quests und intensivem Schwertkampf.",
+      "stats": [
+        "Über 2 Mrd. Besuche",
+        "20+ Atemstile",
+        "0 Aktive Codes",
+        "Tägliche Updates"
+      ],
+      "primaryCta": "Einsteiger-Guide",
+      "secondaryCta": "Atemstile",
+      "tertiaryCta": "Aktive Codes",
+      "videoLabel": "Offizielle Medien"
+    },
+    "updates": {
+      "title": "Neueste Updates",
+      "browse": "Alle Guides durchsuchen",
+      "viewAll": "Alle anzeigen"
+    },
+    "start": {
+      "eyebrow": "Hier beginnen",
+      "title": "Deine Reise in Project Slayers",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Einsteiger-Guide",
+          "description": "Meistere die Grundlagen von Kampf, Quest-Routen und Charakter-Builds vom ersten Tag an mit unserem Starter-Leitfaden."
+        },
+        {
+          "number": "2",
+          "title": "Schnellstes Leveln",
+          "description": "Entdecke die effizientesten Level-Routen, Quest-Reihenfolgen und Farm-Spots, um das Maximallevel zu erreichen."
+        },
+        {
+          "number": "3",
+          "title": "Welchen Clan wählen?",
+          "description": "Vergleiche Clan-Seltenheiten und Supreme-Clan-Passiven, um die idealen Familienvorteile für deinen Kampfstil zu finden."
+        },
+        {
+          "number": "4",
+          "title": "Alle Codes & Belohnungen",
+          "description": "Löse die neuesten funktionierenden Project Slayers Codes für kostenlose Spins, Clan-Rerolls und wertvolles Wen ein."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Beliebte Seiten",
+      "title": "Aktuell im Trend",
+      "quickLinks": [
+        "Atemstile",
+        "Einsteiger-Guide",
+        "Clan-Guide",
+        "Alle Codes"
+      ],
+      "cards": [
+        {
+          "badge": "Einsteiger",
+          "title": "Einsteiger-Guide",
+          "description": "Alles, was du vom ersten Login bis zum Meistern von Kampf und Spielfortschritt benötigst.",
+          "href": "/guide/project-slayers-beginner-guide"
+        },
+        {
+          "badge": "Codes",
+          "title": "Aktive Codes",
+          "description": "Alle funktionierenden Codes mit Belohnungen – jetzt einlösen, bevor sie ablaufen.",
+          "href": "/codes/project-slayers-codes"
+        },
+        {
+          "badge": "Kampf",
+          "title": "Atemstile",
+          "description": "Kompletter Leitfaden zum Freischalten, Vergleichen und Meistern jedes Atemstils.",
+          "href": "/mechanics/project-slayers-breathing-styles"
+        },
+        {
+          "badge": "Clans",
+          "title": "Clan-Guide",
+          "description": "Clan-Seltenheiten, passive Effekte und die besten Familienvorteile für deinen Build.",
+          "href": "/characters/project-slayers-clans"
+        },
+        {
+          "badge": "Tier List",
+          "title": "Atemstil Tier List",
+          "description": "Alle Atemstile von S bis C eingestuft für Farming, Bosse und PvP.",
+          "href": "/mechanics/project-slayers-breathing-style-tier-list"
+        },
+        {
+          "badge": "Karten",
+          "title": "Karte & Standorte",
+          "description": "Detaillierte Kartenübersicht mit Startdörfern, Trainern und Boss-Standorten.",
+          "href": "/maps/project-slayers-map"
+        },
+        {
+          "badge": "Fortschritt",
+          "title": "Fortschritts-Guide",
+          "description": "Optimales Leveln, Quest-Pfade und Meilensteine im Endgame.",
+          "href": "/progression/project-slayers-progression"
+        },
+        {
+          "badge": "Gegenstände",
+          "title": "Waffen & Katanas",
+          "description": "Waffenwerte, Katanas und Ausrüstungskatalog für den Kampf.",
+          "href": "/items/project-slayers-weapons"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Was ist Project Slayers?",
+      "paragraphs": [
+        "Project Slayers ist ein von Demon Slayer inspiriertes Action-RPG auf Roblox, entwickelt von Ouw Productions. Spieler betreten eine weitläufige offene Welt, in der sie ihren Weg als Mensch, Dämon oder Slayer wählen, Atemstile und Blutsdämonen-Künste meistern, Quests abschließen und mächtige Bosse besiegen.",
+        "Egal ob du deine erste Wasser- oder Donnerform erlernst, nach einem Supreme-Clan wie Kamado oder Agatsuma suchst oder mit deinen Verbündeten Endgame-Boss-Drops farmst – unser Wiki bietet umfassende Guides, Werteübersichten und Schritt-für-Schritt-Anleitungen."
+      ],
+      "stats": [
+        {
+          "label": "Entwickler",
+          "value": "Ouw Productions"
+        },
+        {
+          "label": "Plattform",
+          "value": "Roblox"
+        },
+        {
+          "label": "Genre",
+          "value": "Action-RPG"
+        },
+        {
+          "label": "Besuche",
+          "value": "Über 2 Mrd."
+        },
+        {
+          "label": "Favoriten",
+          "value": "Über 2 Mio."
+        },
+        {
+          "label": "Atemstile",
+          "value": "20+"
+        },
+        {
+          "label": "Kampfsystem",
+          "value": "Combo-basiert"
+        }
+      ],
+      "cta": "Alle Guides entdecken"
+    },
+    "explore": {
+      "title": "Project Slayers Wiki entdecken",
+      "description": "Meistere deine Reise in Project Slayers auf Roblox mit essenziellen Fortschritts-Guides, aktiven Codes, Atemstilen, Clan-Ranglisten und Boss-Strategien.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Project Slayers Codes",
+          "description": "Dieses Modul umfasst aktive und abgelaufene Einlösecodes mit Belohnungen wie Spins, Rerolls und Ingame-Boni. Spieler suchen nach Updates und Events regelmäßig nach neuen Codes.",
+          "href": "/codes/project-slayers-codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "SPINS",
+              "detail": "Kostenlose Clan- und Dämonen-Spins abholen, um deinen Charakter-Build aufzuwerten.",
+              "badge": "Aktiv"
+            },
+            {
+              "label": "REROLL",
+              "detail": "Kostenlose Atemstil- und Clan-Rerolls nach großen Updates einlösen.",
+              "badge": "Kostenlos"
+            },
+            {
+              "label": "WEN",
+              "detail": "Bonus-Wen-Währung verdienen, um erste Katanas und wichtige Ausrüstung zu kaufen.",
+              "badge": "Währung"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Project Slayers Einsteiger-Guide",
+          "description": "Dieses Modul bietet eine Schritt-für-Schritt-Anleitung für neue Spieler mit Charakterentwicklung, frühen Quests, Level-Methoden und wichtigen Spielsystemen.",
+          "href": "/guide/project-slayers-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Tutorial-Quests im Kiribating-Dorf abschließen, um erstes Wen und Erfahrung zu sammeln."
+            },
+            {
+              "label": "2",
+              "detail": "Das erste Katana ausrüsten und das Timing von leichten und schweren Angriffen lernen."
+            },
+            {
+              "label": "3",
+              "detail": "Atem-Ausdauer mit Flaschenkürbissen trainieren und den gewünschten Atem-Trainer finden."
+            },
+            {
+              "label": "4",
+              "detail": "Die Letzte Auslese (Final Selection) bestehen, um ein offizieller Demon Slayer zu werden."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Project Slayers Atemstil-Guide",
+          "description": "Dieses Modul erklärt verfügbare Atemstile, ihre Rollen im Gameplay, Freischaltanforderungen und Entwicklungspfade.",
+          "href": "/mechanics/project-slayers-breathing-styles",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Wasser",
+              "detail": "Ausgewogenes Moveset mit flüssiger Massenkontrolle und defensiven Kontern."
+            },
+            {
+              "label": "Donner",
+              "detail": "Blitzschnelle Distanzüberbrückung und explosive Schadens-Combos."
+            },
+            {
+              "label": "Insekt",
+              "detail": "Giftschaden, Nadel-Mehrfachtreffer und überragende Wendigkeit."
+            },
+            {
+              "label": "Wind",
+              "detail": "Aggressive Mittelstrecken-Hiebe und starke Rückstoß-Zonenkontrolle."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Project Slayers Tier List",
+          "description": "Dieses Modul bewertet wichtige Kampfoptionen wie Atemstile, Clans und Fähigkeiten basierend auf ihrer Nützlichkeit im Spiel.",
+          "href": "/mechanics/project-slayers-breathing-style-tier-list",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Kamado-Clan sowie Sonnen- und Donner-Atmung mit erstklassigem Schaden und hoher Mobilität."
+            },
+            {
+              "label": "A",
+              "detail": "Agatsuma-Clan sowie Wasser- und Nebel-Atmung für verlässliche Combo-Ketten."
+            },
+            {
+              "label": "B",
+              "detail": "Insekten- und Wind-Atmung mit situativen Vorteilen im PvP und beim Mob-Clearing."
+            },
+            {
+              "label": "C",
+              "detail": "Starter-Stile und gewöhnliche Clans, die als Einstiegsbasis dienen."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Project Slayers Clan-Guide",
+          "description": "Dieses Modul behandelt Clan-Mechaniken, Seltenheiten, Rerolls und besondere Clan-Vorteile zur Optimierung deines Charakters.",
+          "href": "/characters/project-slayers-clans",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Kamado",
+              "detail": "Supreme-Clan mit Sonnenlicht-Immunität, Ausdauer-Bonus und Skill-Vergünstigungen."
+            },
+            {
+              "label": "Agatsuma",
+              "detail": "Supreme-Clan mit God-Speed-Modus und Verstärkung der Donner-Atmung."
+            },
+            {
+              "label": "Tomioka",
+              "detail": "Mythischer Clan mit dem Defensiv-Skill Dead Calm und Wasser-Schadensboni."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Project Slayers Karte & Standorte",
+          "description": "Dieses Modul hilft Spielern, wichtige Gebiete, NPCs, Trainer, Bosse und Fortschrittsorte in der offenen Welt zu finden.",
+          "href": "/maps/project-slayers-map",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Kiribating",
+              "detail": "Startdorf mit einführenden Quest-NPCs und grundlegenden Händlern."
+            },
+            {
+              "label": "Ushumaru",
+              "detail": "Zentraler Knotenpunkt mit frühen Routen und essenziellen Waffenschmieden."
+            },
+            {
+              "label": "Schmetterling",
+              "detail": "Schmetterlingsanwesen mit medizinischer Versorgung und fortgeschrittenen Trainingsplätzen."
+            },
+            {
+              "label": "Auslese",
+              "detail": "Berg der Letzten Auslese für angehende Dämonenjäger."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Project Slayers Boss-Guide",
+          "description": "Dieses Modul liefert Informationen zu Bossen, Beute, empfohlenen Strategien und Vorbereitungstipps für mehr Kampfstärke.",
+          "href": "/items/project-slayers-weapons",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Giyu",
+              "detail": "Erscheint südlich des Schmetterlingsanwesens; droppt Tier-2-Kisten und das Wasser-Katana."
+            },
+            {
+              "label": "Akaza",
+              "detail": "Hochrangiger Dämonenboss mit verheerenden Nahkampf-Combos; Gruppenkampf empfohlen."
+            },
+            {
+              "label": "Muzan",
+              "detail": "Dämonen-Urvater, der nachts anzutreffen ist; essenziell für den Dämonen-Fortschrittspfad."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Project Slayers Neuigkeiten & Updates",
+          "description": "Dieses Modul sammelt offizielle Update-Informationen, neue Features, Balance-Anpassungen und Event-Ankündigungen.",
+          "href": "/progression/project-slayers-progression",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Patch",
+              "detail": "Regelmäßige Balance-Anpassungen an Atemschaden, Abklingzeiten und Ausdauerkosten."
+            },
+            {
+              "label": "Spins",
+              "detail": "Neue Code-Drops und Spin-Events, die mit Versions-Updates angekündigt werden."
+            },
+            {
+              "label": "Inhalt",
+              "detail": "Laufende Erweiterungen mit neuen Blutsdämonen-Künsten, Waffen und Endgame-Raids."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen (FAQ)",
+      "description": "Schnelle Antworten auf die am häufigsten gestellten Fragen zu Project Slayers.",
+      "items": [
+        {
+          "question": "Was ist Project Slayers?",
+          "answer": "Project Slayers ist ein beliebtes Anime-Action-RPG auf Roblox, inspiriert von Demon Slayer. Spieler erkunden eine offene Welt, erlernen Atemstile oder Blutsdämonen-Künste, schalten mächtige Clans frei und kämpfen gegen anspruchsvolle Bosse."
+        },
+        {
+          "question": "Wie löse ich Codes in Project Slayers ein?",
+          "answer": "Öffne in Project Slayers das Menü mit der Taste M, klicke auf das Twitter-Vogel- / Geschenk-Symbol, füge deinen gültigen Code ein und klicke auf 'Submit', um kostenlose Spins und Wen zu erhalten."
+        },
+        {
+          "question": "Was ist besser in Project Slayers: Slayer oder Dämon?",
+          "answer": "Beide Pfade sind in Project Slayers spielstark. Slayer nutzen Schwerter und vielseitige Atemstile, während Dämonen auf Blutsdämonen-Künste und Lebensregeneration setzen, jedoch Schaden durch Sonnenlicht erleiden."
+        },
+        {
+          "question": "Wie schalte ich einen Atemstil in Project Slayers frei?",
+          "answer": "Um einen Atemstil zu erlernen, erreiche Level 12, spare 5.000 Wen, kaufe und trainiere mit Flaschenkürbissen und besuche den entsprechenden Atem-Trainer auf der Karte, um seine Trainingsprüfungen abzuschließen."
+        },
+        {
+          "question": "Welche Clans sind die besten in Project Slayers?",
+          "answer": "Die besten Clans in Project Slayers sind die Familien der Supreme-Stufe wie Kamado und Agatsuma, die einzigartige Fähigkeiten, passive Attributsboni und verbesserte Ausdauereffizienz bieten."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Bereit, Project Slayers zu meistern?",
+      "description": "Von deinen ersten Schritten im Dorf bis zur Beherrschung fortgeschrittener Atemstile und Blutsdämonen-Künste – unser Community-Wiki begleitet dich mit kostenlosen, aktuellen Guides.",
+      "primary": "Einsteiger-Guide lesen",
+      "secondary": "Auf Roblox spielen"
+    }
+  },
+  "codes": {
+    "overviewTitle": "Project Slayers Codes",
+    "overviewDescription": "Aktive Project Slayers Codes für kostenlose Spins, Resets und Ingame-Belohnungen durchsuchen."
+  },
+  "guide": {
+    "overviewTitle": "Project Slayers Guides",
+    "overviewDescription": "Wichtige Leitfäden für Einsteiger, die Letzte Auslese, den Dämonenpfad und das Kürbistraining."
+  },
+  "progression": {
+    "overviewTitle": "Project Slayers Fortschritt",
+    "overviewDescription": "Umfassende Level-Pfade, Quest-Reihenfolgen, Level-Cap-Details und wichtige Meilensteine."
+  },
+  "mechanics": {
+    "overviewTitle": "Project Slayers Mechaniken",
+    "overviewDescription": "Detaillierte Übersicht über Atemstile, Blutsdämonen-Künste, Kampf-Combos und Meisterschaftssysteme."
+  },
+  "items": {
+    "overviewTitle": "Project Slayers Gegenstände",
+    "overviewDescription": "Kompletter Gegenstandskatalog mit Waffen, Katanas, Zubehör, Handelswerten und Fundorten."
+  },
+  "characters": {
+    "overviewTitle": "Project Slayers Charaktere & Clans",
+    "overviewDescription": "Entdecke Clan-Vorteile, Tier-Ranglisten, Trainer-Standorte und wichtige Charaktere der Spielwelt."
+  },
+  "maps": {
+    "overviewTitle": "Project Slayers Karten & Standorte",
+    "overviewDescription": "Interaktive Karten-Guides mit Dörfern, Trainer-Koordinaten, Boss-Spawns und Orientierungspunkten."
+  },
+  "controls": {
+    "overviewTitle": "Project Slayers Steuerung & Tastenbelegung",
+    "overviewDescription": "Tastaturbelegung, Xbox-Controller-Layouts und Kampfeingaben für Project Slayers."
+  },
+  "shared": {
+    "wikiNavigation": "Wiki-Navigation",
+    "activeCodes": "Aktive Codes",
+    "updated": "Aktualisiert",
+    "viewAllCodes": "Alle Codes anzeigen",
+    "playOnRoblox": "Auf Roblox spielen",
+    "inThisSection": "In diesem Bereich",
+    "tableOfContents": "Inhaltsverzeichnis",
+    "nextSteps": "Nächste Schritte",
+    "needHelp": "Brauchst du Hilfe?",
+    "relatedReading": "Verwandte Artikel",
+    "relatedGuides": "Verwandte Guides",
+    "readMore": "Mehr lesen",
+    "officialMedia": "Offizielle Medien",
+    "home": "Startseite",
+    "noGuidesAvailable": "Noch keine Guides verfügbar. Schau bald wieder vorbei!"
+  },
+  "footer": {
+    "aboutTitle": "Project Slayers Wiki",
+    "about": "Das Project Slayers Wiki ist ein unabhängiger, von Fans erstellter Guide-Hub mit Fortschrittsrouten, Atemstilen, Dämonenkünsten, Clans, Bossen und wichtigem Spielwissen für neue und erfahrene Spieler.",
+    "quickLinks": "Schnelllinks",
+    "guides": "Guides",
+    "legal": "Rechtliches",
+    "copyright": "2026 Project Slayers Wiki. Nicht mit Roblox oder den Entwicklern von Project Slayers verbunden.",
+    "description": "Roblox-Action-RPG inspiriert von Demon Slayer. Atemstile, Dämonenkünste, Clans und Bosse.",
+    "playGame": "Project Slayers spielen",
+    "officialDiscord": "Offizieller Discord",
+    "officialYoutube": "Offizieller YouTube-Kanal",
+    "vvBuilder": "Project Slayers Discord",
+    "beginnerGuide": "Einsteiger-Guide",
+    "raceGuides": "Rassen-Guides",
+    "bossGuides": "Boss-Guides",
+    "buildGuide": "Build-Guide",
+    "privacyPolicy": "Datenschutzerklärung",
+    "termsOfService": "Nutzungsbedingungen"
+  }
+}

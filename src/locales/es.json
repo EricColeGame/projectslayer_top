@@ -1,1 +1,462 @@
-{}
+{
+  "site": {
+    "name": "Project Slayers Wiki",
+    "shortName": "Project Slayers",
+    "tagline": "Guías Completas, Códigos, Estilos de Respiración y Clanes",
+    "description": "Project Slayers Wiki ofrece guías de Roblox, códigos, clanes, estilos de respiración, armas, jefes, mapas y actualizaciones para dominar esta aventura de RPG de anime.",
+    "legalNotice": "Wiki no oficial hecha por fans, para fans."
+  },
+  "nav": {
+    "codes": "Códigos",
+    "guide": "Guía",
+    "progression": "Progresión",
+    "mechanics": "Mecánicas",
+    "items": "Objetos",
+    "characters": "Personajes",
+    "maps": "Mapas",
+    "controls": "Controles"
+  },
+  "home": {
+    "meta": {
+      "title": "Project Slayers Wiki — Códigos, Estilos de Respiración, Clanes y Guías",
+      "description": "Guía completa de Project Slayers en Roblox con códigos activos, estilos de respiración, lista de clanes, ubicaciones del mapa y consejos de progresión."
+    },
+    "hero": {
+      "eyebrow": "RPG en Roblox Inspirado en Demon Slayer",
+      "title": "Project Slayers Wiki",
+      "description": "Project Slayers es un RPG de acción en Roblox inspirado en Demon Slayer, con exploración, clanes, estilos de respiración, habilidades demoníacas, jefes, misiones y combates intensos de espadas.",
+      "stats": [
+        "+2 Mil Millones de Visitas",
+        "+20 Estilos de Respiración",
+        "0 Códigos Activos",
+        "Actualizaciones Diarias"
+      ],
+      "primaryCta": "Guía para Principiantes",
+      "secondaryCta": "Estilos de Respiración",
+      "tertiaryCta": "Códigos Activos",
+      "videoLabel": "Medios oficiales"
+    },
+    "updates": {
+      "title": "Últimas Actualizaciones",
+      "browse": "Explorar Todas las Guías",
+      "viewAll": "Ver Todo"
+    },
+    "start": {
+      "eyebrow": "Empieza Aquí",
+      "title": "Tu Aventura en Project Slayers",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía para Principiantes",
+          "description": "Domina lo básico del combate, rutas de misiones y configuración de tu personaje desde el primer día con nuestra hoja de ruta inicial."
+        },
+        {
+          "number": "2",
+          "title": "Subir de Nivel Rápido",
+          "description": "Descubre las rutas de subida de nivel más eficientes, rotaciones de misiones y lugares de farmeo para alcanzar el nivel máximo."
+        },
+        {
+          "number": "3",
+          "title": "Qué Clan Elegir",
+          "description": "Compara las rarezas de clanes, pasivas de clanes Supremos y descubre las ventajas familiares ideales para tu estilo de combate."
+        },
+        {
+          "number": "4",
+          "title": "Códigos y Recompensas",
+          "description": "Canjea los códigos más recientes de Project Slayers para obtener giros gratis, rerolls de clan y valiosos Wen en el juego."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas Populares",
+      "title": "Tendencias Actuales",
+      "quickLinks": [
+        "Estilos de Respiración",
+        "Guía para Principiantes",
+        "Guía de Clanes",
+        "Todos los Códigos"
+      ],
+      "cards": [
+        {
+          "badge": "Principiante",
+          "title": "Guía para Principiantes",
+          "description": "Todo lo que necesitas desde tu primer inicio de sesión hasta dominar los conceptos básicos de combate y progresión.",
+          "href": "/guide/project-slayers-beginner-guide"
+        },
+        {
+          "badge": "Códigos",
+          "title": "Códigos Activos",
+          "description": "Todos los códigos válidos con recompensas para canjear antes de que expiren.",
+          "href": "/codes/project-slayers-codes"
+        },
+        {
+          "badge": "Combate",
+          "title": "Estilos de Respiración",
+          "description": "Guía completa para desbloquear, comparar y dominar cada estilo de respiración.",
+          "href": "/mechanics/project-slayers-breathing-styles"
+        },
+        {
+          "badge": "Clanes",
+          "title": "Guía de Clanes",
+          "description": "Rarezas de clanes, habilidades pasivas y mejores ventajas de familia para tu personaje.",
+          "href": "/characters/project-slayers-clans"
+        },
+        {
+          "badge": "Tier List",
+          "title": "Tier List de Respiraciones",
+          "description": "Todos los estilos de respiración clasificados de S a C para farmeo, jefes y PvP.",
+          "href": "/mechanics/project-slayers-breathing-style-tier-list"
+        },
+        {
+          "badge": "Mapas",
+          "title": "Mapa y Ubicaciones",
+          "description": "Desglose completo del mapa que incluye aldeas iniciales, entrenadores y ubicaciones de jefes.",
+          "href": "/maps/project-slayers-map"
+        },
+        {
+          "badge": "Progresión",
+          "title": "Guía de Progresión",
+          "description": "Subida de nivel óptima, rutas de misiones e hitos de juego final.",
+          "href": "/progression/project-slayers-progression"
+        },
+        {
+          "badge": "Objetos",
+          "title": "Armas y Katanas",
+          "description": "Estadísticas de armas, katanas y catálogo de equipo de combate.",
+          "href": "/items/project-slayers-weapons"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es Project Slayers?",
+      "paragraphs": [
+        "Project Slayers es un RPG de acción en Roblox inspirado en Demon Slayer, desarrollado por Ouw Productions. Los jugadores exploran un extenso mundo abierto donde eligen su camino como Humano, Demonio o Slayer, dominando posturas de combate distintivas como Estilos de Respiración y Artes Demoniacas de Sangre mientras completan misiones, desafían a poderosos jefes y descubren secretos.",
+        "Ya sea que estés aprendiendo tu primera postura de Agua o Trueno, buscando un Clan Supremo como Kamado o Agatsuma, o farmeando recompensas de jefes con tus aliados, nuestra wiki ofrece guías completas, tablas de estadísticas y tutoriales paso a paso."
+      ],
+      "stats": [
+        {
+          "label": "Desarrollador",
+          "value": "Ouw Productions"
+        },
+        {
+          "label": "Plataforma",
+          "value": "Roblox"
+        },
+        {
+          "label": "Género",
+          "value": "RPG de Acción"
+        },
+        {
+          "label": "Visitas",
+          "value": "+2 Mil Millones"
+        },
+        {
+          "label": "Favoritos",
+          "value": "+2 Millones"
+        },
+        {
+          "label": "Estilos de Respiración",
+          "value": "20+"
+        },
+        {
+          "label": "Sistema de Combate",
+          "value": "Basado en combos"
+        }
+      ],
+      "cta": "Explorar Todas las Guías"
+    },
+    "explore": {
+      "title": "Explorar la Wiki de Project Slayers",
+      "description": "Domina tu aventura en Project Slayers en Roblox con guías esenciales de progresión, códigos activos, estilos de respiración, clasificaciones de clanes y estrategias para jefes.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Códigos de Project Slayers",
+          "description": "Este módulo recopila códigos activos y expirados, incluyendo recompensas como giros, rerolls y bonificaciones del juego. Los jugadores buscan con frecuencia nuevos códigos tras actualizaciones o eventos.",
+          "href": "/codes/project-slayers-codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "GIROS",
+              "detail": "Consigue giros gratis de Clan y Arte Demoniaca para mejorar la build de tu personaje.",
+              "badge": "Activo"
+            },
+            {
+              "label": "REROLL",
+              "detail": "Canjea rerolls gratuitos de estilo de respiración y clan tras las actualizaciones principales.",
+              "badge": "Gratis"
+            },
+            {
+              "label": "WEN",
+              "detail": "Gana dinero Wen adicional para comprar espadas iniciales y equipo indispensable.",
+              "badge": "Moneda"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guía para Principiantes de Project Slayers",
+          "description": "Este módulo proporciona una hoja de ruta inicial para nuevos jugadores, con progresión del personaje, misiones iniciales, métodos de nivel y sistemas esenciales.",
+          "href": "/guide/project-slayers-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Completa las misiones tutoriales en Kiribating Village para conseguir Wen y experiencia inicial."
+            },
+            {
+              "label": "2",
+              "detail": "Equípate con tu primera katana y aprende los tiempos de combos de ataques ligeros y pesados."
+            },
+            {
+              "label": "3",
+              "detail": "Entrena tu resistencia de respiración con calabazas y encuentra al maestro correspondiente."
+            },
+            {
+              "label": "4",
+              "detail": "Supera la prueba de la Selección Final para convertirte en un Demon Slayer oficial."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Guía de Estilos de Respiración de Project Slayers",
+          "description": "Este módulo explica los estilos de respiración disponibles, sus funciones de juego, requisitos de desbloqueo y rutas de progresión.",
+          "href": "/mechanics/project-slayers-breathing-styles",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Agua",
+              "detail": "Habilidades equilibradas con control fluido de adversarios y contragolpes defensivos."
+            },
+            {
+              "label": "Trueno",
+              "detail": "Aproximaciones a gran velocidad y combos de daño explosivo fulminantes."
+            },
+            {
+              "label": "Insecto",
+              "detail": "Efectos de veneno, ataques rápidos con agujas y agilidad superior."
+            },
+            {
+              "label": "Viento",
+              "detail": "Cortes agresivos de medio alcance y fuerte control de área con retroceso."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Tier List de Project Slayers",
+          "description": "Este módulo clasifica opciones clave de combate como estilos de respiración, clanes y habilidades según el rendimiento en juego.",
+          "href": "/mechanics/project-slayers-breathing-style-tier-list",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Clan Kamado y Respiración Solar / Trueno con daño y movilidad de máxima categoría."
+            },
+            {
+              "label": "A",
+              "detail": "Clan Agatsuma y Respiración de Agua / Niebla con cadenas de combos fiables."
+            },
+            {
+              "label": "B",
+              "detail": "Respiración de Insecto y Viento con ventajas situacionales en PvP y limpieza de enemigos."
+            },
+            {
+              "label": "C",
+              "detail": "Estilos iniciales y clanes comunes básicos que sirven de punto de partida."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Guía de Clanes de Project Slayers",
+          "description": "Este módulo explica las mecánicas de clanes, rarezas, rerolls y ventajas sobresalientes para optimizar la creación de tu personaje.",
+          "href": "/characters/project-slayers-clans",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Kamado",
+              "detail": "Clan Supremo que otorga inmunidad a la luz solar, aumento de estamina y descuento de habilidades."
+            },
+            {
+              "label": "Agatsuma",
+              "detail": "Clan Supremo que proporciona el modo God Speed y amplificación de la respiración del trueno."
+            },
+            {
+              "label": "Tomioka",
+              "detail": "Clan Mítico que otorga la habilidad defensiva Dead Calm y mejoras de daño de agua."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Mapa y Ubicaciones de Project Slayers",
+          "description": "Este módulo ayuda a los jugadores a encontrar zonas clave, NPCs, entrenadores, jefes y ubicaciones de avance en el mundo abierto.",
+          "href": "/maps/project-slayers-map",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Kiribating",
+              "detail": "Aldea inicial con personajes de misiones introductorias y comerciantes básicos."
+            },
+            {
+              "label": "Ushumaru",
+              "detail": "Punto de encuentro que conecta rutas tempranas y herreros de armas esenciales."
+            },
+            {
+              "label": "Mariposa",
+              "detail": "Mansión Mariposa con enfermería y campos de entrenamiento avanzado."
+            },
+            {
+              "label": "Selección",
+              "detail": "Montaña de la Selección Final para aspirantes a cazadores de demonios."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Guía de Jefes de Project Slayers",
+          "description": "Este módulo ofrece información sobre jefes, recompensas, estrategias recomendadas y consejos de preparación para fortalecer al personaje.",
+          "href": "/items/project-slayers-weapons",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Giyu",
+              "detail": "Aparece al sur de la Mansión Mariposa; suelta cofres de nivel 2 y la Katana de Agua."
+            },
+            {
+              "label": "Akaza",
+              "detail": "Jefe demonio de alto nivel con letales combos marciales; se recomienda ir en grupo."
+            },
+            {
+              "label": "Muzan",
+              "detail": "Progenitor de los demonios que aparece de noche; indispensable para la ruta de demonio."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Noticias y Actualizaciones de Project Slayers",
+          "description": "Este módulo recopila novedades oficiales, nuevas funciones, ajustes de balance y anuncios de eventos para estar siempre al día.",
+          "href": "/progression/project-slayers-progression",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Parche",
+              "detail": "Ajustes regulares de daño en respiraciones, tiempos de recarga y consumo de resistencia."
+            },
+            {
+              "label": "Giros",
+              "detail": "Nuevos códigos y eventos de giros anunciados junto con cada actualización de versión."
+            },
+            {
+              "label": "Contenido",
+              "detail": "Incorporación continua de nuevas Artes Demoniacas de Sangre, armas e incursiones de juego final."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas Frecuentes",
+      "description": "Respuestas rápidas a las dudas más comunes sobre Project Slayers.",
+      "items": [
+        {
+          "question": "¿Qué es Project Slayers?",
+          "answer": "Project Slayers es un popular RPG de acción en Roblox inspirado en Demon Slayer. Los jugadores exploran un mundo abierto, aprenden Estilos de Respiración o Artes Demoniacas de Sangre, desbloquean Clanes poderosos y derrotan a jefes desafiantes."
+        },
+        {
+          "question": "¿Cómo se canjean los códigos en Project Slayers?",
+          "answer": "En Project Slayers, abre el menú del juego pulsando M, haz clic en el icono del pájaro de Twitter / regalo, pega tu código activo y pulsa Enviar para recibir giros y Wen gratuitos."
+        },
+        {
+          "question": "¿Qué es mejor en Project Slayers: Cazador o Demonio?",
+          "answer": "Ambos caminos son viables en Project Slayers. Los Cazadores utilizan espadas y diversos Estilos de Respiración, mientras que los Demonios usan Artes Demoniacas de Sangre y regeneración de salud, aunque sufren daño con la luz solar."
+        },
+        {
+          "question": "¿Cómo desbloqueo un Estilo de Respiración en Project Slayers?",
+          "answer": "Para aprender un Estilo de Respiración en Project Slayers, alcanza el nivel 12, ahorra 5.000 Wen, compra calabazas para entrenar la resistencia y acude al entrenador correspondiente en el mapa para completar sus pruebas."
+        },
+        {
+          "question": "¿Cuáles son los mejores Clanes en Project Slayers?",
+          "answer": "Los mejores Clanes en Project Slayers son las familias de nivel Supremo como Kamado y Agatsuma, que otorgan habilidades exclusivas, mejoras pasivas y mayor eficiencia de resistencia."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para Dominar Project Slayers?",
+      "description": "Desde tus primeros pasos en la aldea hasta perfeccionar los Estilos de Respiración y las Artes Demoniacas de Sangre más avanzados, nuestra wiki comunitaria te ofrece guías gratuitas y actualizadas.",
+      "primary": "Leer la Guía para Principiantes",
+      "secondary": "Jugar en Roblox"
+    }
+  },
+  "codes": {
+    "overviewTitle": "Códigos de Project Slayers",
+    "overviewDescription": "Consulta códigos válidos de Project Slayers para giros gratis, reinicios y recompensas del juego."
+  },
+  "guide": {
+    "overviewTitle": "Guías de Project Slayers",
+    "overviewDescription": "Guías esenciales que cubren los conceptos básicos, la Selección Final, la progresión demoníaca y el entrenamiento con calabazas."
+  },
+  "progression": {
+    "overviewTitle": "Progresión en Project Slayers",
+    "overviewDescription": "Rutas completas de progresión de niveles, secuencias de misiones, límites de nivel e hitos indispensables."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecánicas de Project Slayers",
+    "overviewDescription": "Desglose exhaustivo de los estilos de respiración, Artes Demoniacas de Sangre, combos de combate y maestría."
+  },
+  "items": {
+    "overviewTitle": "Objetos de Project Slayers",
+    "overviewDescription": "Catálogo completo de objetos con armas, katanas, accesorios, valores de intercambio y fuentes de obtención."
+  },
+  "characters": {
+    "overviewTitle": "Personajes y Clanes de Project Slayers",
+    "overviewDescription": "Descubre ventajas de clanes, listas de niveles, ubicaciones de maestros y personajes clave del mundo."
+  },
+  "maps": {
+    "overviewTitle": "Mapas y Lugares de Project Slayers",
+    "overviewDescription": "Guías de mapas interactivos con aldeas, coordenadas de maestros, zonas de aparición de jefes y puntos de referencia."
+  },
+  "controls": {
+    "overviewTitle": "Controles y Teclas de Project Slayers",
+    "overviewDescription": "Asignación de teclas de teclado, mandos de Xbox y guías de controles de combate para Project Slayers."
+  },
+  "shared": {
+    "wikiNavigation": "Navegación de la Wiki",
+    "activeCodes": "Códigos Activos",
+    "updated": "Actualizado",
+    "viewAllCodes": "Ver todos los códigos",
+    "playOnRoblox": "Jugar en Roblox",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Tabla de Contenidos",
+    "nextSteps": "Próximos Pasos",
+    "needHelp": "¿Necesitas Ayuda?",
+    "relatedReading": "Lecturas Relacionadas",
+    "relatedGuides": "Guías Relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Medios oficiales",
+    "home": "Inicio",
+    "noGuidesAvailable": "Aún no hay guías disponibles. ¡Vuelve pronto!"
+  },
+  "footer": {
+    "aboutTitle": "Project Slayers Wiki",
+    "about": "Project Slayers Wiki es una plataforma independiente de guías creada por fans con rutas de progresión, estilos de respiración, artes demoníacas, clanes, jefes y conocimientos clave para jugadores nuevos y veteranos.",
+    "quickLinks": "Enlaces Rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "copyright": "2026 Project Slayers Wiki. No afiliado con Roblox ni con los desarrolladores de Project Slayers.",
+    "description": "RPG de acción en Roblox inspirado en Demon Slayer. Estilos de respiración, artes demoníacas, clanes y jefes.",
+    "playGame": "Jugar a Project Slayers",
+    "officialDiscord": "Discord Oficial",
+    "officialYoutube": "YouTube Oficial",
+    "vvBuilder": "Discord de Project Slayers",
+    "beginnerGuide": "Guía para Principiantes",
+    "raceGuides": "Guías de Raza",
+    "bossGuides": "Guías de Jefes",
+    "buildGuide": "Guía de Builds",
+    "privacyPolicy": "Política de Privacidad",
+    "termsOfService": "Términos del Servicio"
+  }
+}
